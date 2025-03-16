@@ -1,5 +1,15 @@
 {
   "base_files_url": "https://github.com/mlodyskiny/skins/raw/refs/heads/main/files/",
   "base_screenshot_url": "https://github.com/mlodyskiny/skins/blob/main/screenshots/",
-  "skins": ["pdwv2", "PDWristia"]
+  "skins":
+  [
+    {
+      "name": "pdwv2",
+      "description": "do DT zajebiaszczy jest :P"
+    },
+    {
+      "name": "PDWristia",
+      "description": "ten to taki do STRIMUW wenży :)"
+    }
+  ]
 }
