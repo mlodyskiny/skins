@@ -1,5 +1,3 @@
-# [pdw v2](https://github.com/mlodyskiny/skins/raw/refs/heads/main/files/pdwv2.osk) | ALE DO DT KOZACKII
-![FUCK THE BLIND](https://github.com/mlodyskiny/skins/blob/main/screenshots/pdwv2.jpg?raw=true)
+# [CLICK HERE I MADE WEBSITE WITH AI!!](https://mlodyskiny.github.io/skins/)
 
-# [PDWristia](https://github.com/mlodyskiny/skins/raw/refs/heads/main/files/PDWristia.osk) | A TO DO STRIMUWY WENŻYKÓW HEHE
-![FUCK THE BLIND](https://github.com/mlodyskiny/skins/blob/main/screenshots/PDWristia.jpg?raw=true)
+i am not a web "dev" death to web "devs"
