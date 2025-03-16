@@ -71,7 +71,7 @@ export default function App()
                       size="lg"
                       className="w-full mt-8 text-xl h-14"
                   >
-                    FREE DOWNLOAD (NO VIRUS!)
+                    FREE DOWNLOAD
                   </Button>
                 </CardBody>
               </div>
