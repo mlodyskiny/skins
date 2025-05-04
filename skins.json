@@ -4,8 +4,12 @@
   "skins":
   [
     {
-      "name": "pdwv2",
+      "name": "PDWv2",
       "description": "AIM :DDD rafis + whitecat 1.0 hq skin 10/10"
+    },
+    {
+      "name": "PDWv2colors",
+      "description": "Ok i added color wow amazing"
     },
     {
       "name": "PDWristia",
